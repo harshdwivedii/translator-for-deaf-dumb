@@ -1,0 +1,4 @@
+0 Cable
+1 CPU
+2 Joystick
+3 Keyboard
